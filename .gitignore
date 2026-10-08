@@ -1,0 +1,17 @@
+# Maven
+target/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.factorypath
+
+# Ferramentas da IDE (GitHub Copilot modernize)
+.github/modernize/
+
+# Sistema
+.DS_Store
